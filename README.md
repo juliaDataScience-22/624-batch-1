@@ -1,1 +1,1 @@
-# 624-batch-1
+This repository contains all homework assignments for batch 1.
